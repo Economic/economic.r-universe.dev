@@ -1,0 +1,10 @@
+[
+    {
+        "package": "epiextractr",
+        "url": "https://github.com/economic/epiextractr"
+    },
+    {
+        "package": "epidatatools",
+        "url": "https://github.com/economic/epidatatools"
+    }
+]
