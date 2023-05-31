@@ -6,5 +6,9 @@
     {
         "package": "epidatatools",
         "url": "https://github.com/economic/epidatatools"
+    },
+    {
+        "package": "realtalk",
+        "url": "https://github.com/economic/realtalk"
     }
 ]
