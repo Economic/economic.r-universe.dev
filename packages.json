@@ -10,9 +10,5 @@
     {
         "package": "realtalk",
         "url": "https://github.com/economic/realtalk"
-    },
-    {
-        "package": "swadlr",
-        "url": "https://github.com/economic/swadlr"
     }
 ]
