@@ -8,6 +8,10 @@
         "url": "https://github.com/economic/epidatatools"
     },
     {
+        "package": "epitargets",
+        "url": "https://github.com/economic/epitargets"
+    },
+    {
         "package": "realtalk",
         "url": "https://github.com/economic/realtalk"
     },
