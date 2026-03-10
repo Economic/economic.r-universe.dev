@@ -12,6 +12,10 @@
         "url": "https://github.com/economic/epitargets"
     },
     {
+        "package": "prefab",
+        "url": "https://github.com/economic/prefab"
+    },
+    {
         "package": "realtalk",
         "url": "https://github.com/economic/realtalk"
     },
