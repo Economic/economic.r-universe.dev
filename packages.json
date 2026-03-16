@@ -12,6 +12,10 @@
         "url": "https://github.com/economic/epitargets"
     },
     {
+        "package": "epiverse",
+        "url": "https://github.com/economic/epiverse"
+    },
+    {
         "package": "epitemplate",
         "url": "https://github.com/economic/epitemplate"
     },
